@@ -3,4 +3,4 @@ INSTALL
 *.d
 *.elf
 *.bin
-
+*.map
